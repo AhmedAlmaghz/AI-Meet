@@ -1,0 +1,9 @@
+{
+  "name": "AI Meet",
+  "description": "Smart video and audio meeting platform featuring real-time AI live voice translation, virtual classrooms, moderator controls, and AI assistants.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
